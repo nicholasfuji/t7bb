@@ -6,7 +6,7 @@ actions:
     - label: hello
       url: "https://www.google.com"
 image: /assets/images/dost.jpg
-tag: russia
+tags: russia
 categories: russia
 
 ---
