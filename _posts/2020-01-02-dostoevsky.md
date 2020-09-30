@@ -6,8 +6,10 @@ actions:
     - label: hello
       url: "https://www.google.com"
 image: /assets/images/dost.jpg
-tags: russia
-categories: russia
+tags: 
+ - russia
+categories: 
+ - russia
 
 ---
 dostoevsky
