@@ -6,6 +6,12 @@ actions:
     - label: hello
       url: "https://www.google.com"
 image: /assets/images/dost.jpg
+tag: russia
+categories: russia
+
 ---
 dostoevsky
 
+go to [Facebook][face-book].
+
+[face-book]: https://www.facebook.com
