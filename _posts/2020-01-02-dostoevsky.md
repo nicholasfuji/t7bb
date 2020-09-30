@@ -17,3 +17,11 @@ dostoevsky
 go to [Facebook][face-book].
 
 [face-book]: https://www.facebook.com
+
+* TOC
+{:toc}
+
+# header 1
+## header 2
+### header 3
+It will then render the markdown and html titles (lines that begins with `#` or using the `<h1></h1>` tages)
